@@ -1,2 +1,1 @@
-# Java14-app
-Java14-todo-app
+Version: TODO-APP-1.0-SNAPSHOT
